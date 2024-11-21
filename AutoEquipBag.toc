@@ -4,6 +4,6 @@
 ## Title: AutoEquipBag
 ## Version: @project-version@
 ## Author: PsyKzz
-## X-Curse-Project-ID: 1143650
+## X-Curse-Project-ID: 1145000
 
 core.lua
